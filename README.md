@@ -1,0 +1,2 @@
+# decks
+Standard OCTGN Decks
