@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="06c86424-7948-4d1d-a2ef-9ccdd85fc41e">Trypticon - Assault Base</card>
+    <card qty="1" id="0c217075-6905-4b12-b3be-d444a3e23362">Full-Tilt - Base Recon</card>
+    <card qty="1" id="7f2644cb-5812-4bfc-80de-e9e720459032">Wipe-Out - Devoted Minion</card>
+    <card qty="1" id="efeb6592-2975-4f75-81ce-c5e144c20ba3">Brunt - Artillery Drone</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="2" id="c5d72d7f-31b9-4404-bfb6-f95cc7ac424c">Medic's Protective Field</card>
+    <card qty="3" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+    <card qty="3" id="c5567e64-e791-4d2b-b82a-3e47f6d4a288">Point Position</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="2" id="2c38bd7e-f01a-4c2a-90a6-aec6f8726ea0">Security Console</card>
+    <card qty="3" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="1" id="5996525f-e1fc-45c4-a312-e41080b73fa3">Sparring Gear</card>
+    <card qty="3" id="6d43eb12-3109-4b54-b127-32bfbf019f3e">Valuable Contract</card>
+    <card qty="1" id="ce3622b1-778b-4cf0-b4c3-c91699db4dda">Pocket Processor</card>
+    <card qty="3" id="b887deb3-2be3-4d04-b672-b55a40c18252">Hidden Fortification</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+    <card qty="3" id="b6f874f5-751f-45eb-b0af-cbd47fe00019">I Still Function!</card>
+    <card qty="3" id="41af3ef9-c095-4082-8e56-05206e84cf98">Battlefield Incursion</card>
+    <card qty="1" id="4d8982a3-5a12-44a8-9db4-b7e9a0ca581f">Relentless Invasion</card>
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Nagle’s Notes: Trypticon Deck 
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360036521511-Nagle-s-Notes-Trypticon-Deck
+
+See article for more information.]]></notes>
+</deck>
