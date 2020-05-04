@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="d503f51a-5efb-4334-8438-c5bf1181aac3">Detritus - Arms Dealer</card>
+    <card qty="1" id="62e51bc9-027f-4db1-a4ea-8e98eb7e6316">Raider Nova Storm - Infantry, Combustion Specialist</card>
+    <card qty="1" id="ae516104-f050-426a-9880-99847b48e465">Raider Nightstick - Ground Force, Weapons</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="e34a57ed-749e-48ee-8b73-6bccde8a42ce">Opportune Offensive</card>
+    <card qty="3" id="f364b746-d005-485f-9631-9da5a2b94f7e">Contract Contingency</card>
+    <card qty="3" id="42a2951a-46b3-4e3c-b9ca-636e00d751ad">Coup</card>
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+    <card qty="3" id="96db81d9-ef8b-4355-bdf9-e3c2d35ff1ea">Stable Cover</card>
+    <card qty="3" id="cafbb774-1ba6-4961-8bc7-e89ca46b92b3">Hiding Spot</card>
+    <card qty="1" id="bbe5bbac-3ec7-4aec-b8d2-d588ccb0ae14">Indestructible Sword</card>
+    <card qty="3" id="2d0c97d7-5553-40ef-b574-aab01f2bd755">Minor Medic Kit</card>
+    <card qty="3" id="d87115cf-dc31-440a-b875-4224a5330be0">Soldier's Blaster</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="b41b1191-ab1f-4c0f-a9d7-e0f33ed38b13">RR Disruption Blade</card>
+    <card qty="3" id="ce3622b1-778b-4cf0-b4c3-c91699db4dda">Pocket Processor</card>
+    <card qty="3" id="c5d72d7f-31b9-4404-bfb6-f95cc7ac424c">Medic's Protective Field</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Robots in Design #9: A Little Help From My Handsomely Paid Associates 
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360036957431-Robots-in-Design-9-A-Little-Help-From-My-Handsomely-Paid-Associates
+
+See article for more information.]]></notes>
+</deck>
