@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="82f6ca40-ff6a-4c1f-955b-85314003dba5">Private Firedrive - Ground Command, Artillery</card>
+    <card qty="1" id="466b5140-00c5-4c41-949b-dda0f3ca1afa">Sergeant Springer - Special Ops, Aerial Defense</card>
+    <card qty="1" id="2c399eee-f91c-4ff2-9431-9d7d6bd67be9">Dinobot Swoop - Fearsome Flyer</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="ea361898-9774-444e-9ff4-bdd586d09519">Multi-Tool</card>
+    <card qty="3" id="fd2b885c-6808-4a0c-89b4-5349bf4b4e27">Drill Arms</card>
+    <card qty="3" id="c9a8312f-a00f-4120-9430-be937d61742b">Scrapper Gauntlets</card>
+    <card qty="2" id="bc58e126-20e4-4c82-8c0e-0cedfc02e5c5">Defensive Driving</card>
+    <card qty="2" id="a90e24e2-5f4b-4e89-b1aa-ae45be55f507">Crushing Size</card>
+    <card qty="1" id="48df2573-9dc6-4021-9b5e-244746ed41ef">Field Communicator</card>
+    <card qty="3" id="a0876f01-0e8a-456a-9e46-3a312caf3569">Kinetic Converter</card>
+    <card qty="2" id="3e0e5ff3-6f59-479c-97c5-39f85fce9a6d">Conversion Engine</card>
+    <card qty="3" id="396b6a52-957e-4ccd-8ce4-6055ce9beb56">Pep Talk</card>
+    <card qty="2" id="ad2443fc-232a-40c1-83ac-3855efb611e4">Peace through Tyranny</card>
+    <card qty="2" id="155a314e-0ff1-464f-8755-0bc617800c03">Reclaim</card>
+    <card qty="3" id="2ee015da-8e42-4582-b3ea-184cf4017a40">Brainstorm</card>
+    <card qty="2" id="ecf95052-9913-43f9-9c50-7341e58974fa">Daring Escape</card>
+    <card qty="3" id="5eb7bae0-0397-4a5c-8fec-c95e445e46ca">Showing Off</card>
+    <card qty="3" id="592b47b3-dc79-411c-bf68-4aa7b7f1180e">Confidence</card>
+    <card qty="3" id="efcc5ff1-266c-41e1-85e7-011f03819ca0">Equipment Enthusiast</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="84a79359-a6f1-48b1-9973-78253c8da1c0">Arcee - Skilled Fighter</card>
+    <card qty="2" id="b9e9fdd0-08f5-4573-bbf7-f6578b9bac1c">Quartermaster</card>
+    <card qty="2" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="73b71cf0-8f33-44bb-8e6e-b11f93bcad46">Extra Padding</card>
+  </section>
+  <notes><![CDATA[Nagle's Notes: Guest Column – Swoop, There It Is with Blaine Bublitz
+
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360037461572-Nagle-s-Notes-Guest-Column-Swoop-There-It-Is-with-Blaine-Bublitz
+
+See article for explaination.]]></notes>
+</deck>
