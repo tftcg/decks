@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="86193b60-adf9-4930-b17b-8ba167546ac5">Metroplex - Autobot City</card>
+    <card qty="1" id="e31d7239-b584-4bd5-ba89-ffca51798fee">Six-Gun - Heavy Weapon Expert</card>
+    <card qty="1" id="30785791-0e73-4193-b77a-ff7d9de8ae2a">Scamper - City Patrol</card>
+    <card qty="1" id="7f200a34-1d1a-4f74-ac1d-c40c0b6f544c">Slammer - Combat Drone</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="4f298a3e-b05e-4c82-8aa5-06e78aea5e22">Armored Plating</card>
+    <card qty="3" id="5e05e6cf-ccea-4929-a4e3-2bb994e601cc">Backup Plan</card>
+    <card qty="2" id="afe1d946-2f78-47a9-b74d-96890ae22308">Combat Training</card>
+    <card qty="2" id="8e9ed216-6fdb-43f9-bd84-339ecb9e0343">Data Pad</card>
+    <card qty="3" id="443c37fc-8284-49cf-9d60-df10175192dd">Flamethrower</card>
+    <card qty="3" id="5628641e-a87d-4a16-8b7c-e8a6b1524291">Force Field</card>
+    <card qty="3" id="830a2e99-52d5-46da-b580-5c0500facd88">Handheld Blaster</card>
+    <card qty="3" id="4bc6ff89-c1ce-4b2a-b847-670545fe3338">Height Advantage</card>
+    <card qty="3" id="931d7733-055d-4257-8f4d-69df02f4a262">Improvised Shield</card>
+    <card qty="3" id="0ce3d090-6c5b-495d-8321-357c10d3a47b">Inspiring Leadership</card>
+    <card qty="3" id="5bd22321-38d5-4e8a-a994-8a7b557c03ce">Protected by Metroplex</card>
+    <card qty="3" id="15a941b5-d2a2-4712-8d78-7987e78223e3">Rally the City</card>
+    <card qty="3" id="933d115d-90fa-4a13-9789-8cd73cd80332">Rapid Conversion</card>
+    <card qty="3" id="fa8f735e-ab4d-46f7-ab4e-64d72d195cc7">Supercharge</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

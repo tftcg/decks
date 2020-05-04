@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="37da857e-066e-4f47-b42e-9233d58ad84a">Bonecrusher - Demolitions</card>
+    <card qty="1" id="dc1b5c7a-8fb5-4675-8973-1c400e869727">Hook - Surgical Engineer</card>
+    <card qty="1" id="af92a6ea-3072-41b2-b126-a077917e0825">Longhaul - Transport</card>
+    <card qty="1" id="a8c5b759-bc60-43e9-872e-517fcd7c5ed0">Mixmaster - Materials Fabrication</card>
+    <card qty="1" id="e4f52502-1103-4300-890a-88e6a55fd32c">Scavenger - Mining and Salvage</card>
+    <card qty="1" id="e3095505-e7f1-42d0-aca0-5a23ca3aa951">Scrapper - Constructicon Foreman</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="3598f13a-130d-4bdf-b544-378f32650304">Blast Shield</card>
+    <card qty="3" id="f94d0301-3ce1-4960-a0d1-9f84c737122e">Builder's Tools</card>
+    <card qty="3" id="c33725bb-de9b-482a-8e07-13f33016c144">Constructicon Enigma</card>
+    <card qty="3" id="5628641e-a87d-4a16-8b7c-e8a6b1524291">Force Field</card>
+    <card qty="3" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="3" id="2b0c5085-4e87-4332-b51f-9327f1ede75f">Heavy Landing</card>
+    <card qty="2" id="e5cbe467-b354-4a36-9d63-24351542ecf9">Improvised Shield</card>
+    <card qty="3" id="c7a9f8da-5974-4d27-9e25-28fc8a6fdf8b">Pep Talk</card>
+    <card qty="3" id="25cdb4d8-b354-4e28-bd02-0d6c4cc06c23">Primary Laser</card>
+    <card qty="2" id="bae64761-368c-4880-bd0b-03db2e577421">Ramming Speed</card>
+    <card qty="3" id="6067d540-7e7a-4082-8cfd-be2ff48ab9ed">Rapid Conversion</card>
+    <card qty="3" id="155a314e-0ff1-464f-8755-0bc617800c03">Reclaim</card>
+    <card qty="3" id="c9a8312f-a00f-4120-9430-be937d61742b">Scrapper Gauntlets</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="250f1f0e-6492-4534-a221-3c2e34bd0f91">Devastator - Towering Warrior</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="4402e5a7-cd8b-4f24-8169-6eb0c5e3c857">Optimus Prime - Autobot Leader</card>
+    <card qty="1" id="a881606a-5e32-4406-a61c-811a9122cf58">Red Alert - Security Chief</card>
+    <card qty="1" id="946d4673-b135-43c3-bdb9-6280a40346ef">Ironhide - Veteran Autobot</card>
+    <card qty="1" id="cdda8bb2-0ffd-47bc-a229-fae691d6c7a6">Bumblebee - Brave Warrior</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="1" id="4f298a3e-b05e-4c82-8aa5-06e78aea5e22">Armored Plating</card>
+    <card qty="1" id="8e9ed216-6fdb-43f9-bd84-339ecb9e0343">Data Pad</card>
+    <card qty="1" id="80bc75d4-2b2e-4e21-88b6-7dc843d4c814">Debilitating Crystal</card>
+    <card qty="1" id="443c37fc-8284-49cf-9d60-df10175192dd">Flamethrower</card>
+    <card qty="1" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="1" id="830a2e99-52d5-46da-b580-5c0500facd88">Handheld Blaster</card>
+    <card qty="1" id="931d7733-055d-4257-8f4d-69df02f4a262">Improvised Shield</card>
+    <card qty="1" id="c9163f87-0393-4089-bc81-f2ad6dddddca">Incoming Transmission</card>
+    <card qty="1" id="0ce3d090-6c5b-495d-8321-357c10d3a47b">Inspiring Leadership</card>
+    <card qty="1" id="44e0f1f2-964f-47ff-87a2-ba370308b377">Leap Into Battle</card>
+    <card qty="1" id="fc3ed879-ccc9-4b50-999c-08e8cdb6b017">New Designs</card>
+    <card qty="1" id="74b7aa8e-a1b4-4ab1-83f2-3f97ab159fdc">Piercing Blaster</card>
+    <card qty="1" id="b02a8fc4-b5f1-46e5-a78b-e1e9a72ca7be">Plasma Burst</card>
+    <card qty="1" id="181b3347-cc34-437c-9f3f-997187e13631">Primary Laser</card>
+    <card qty="1" id="bae64761-368c-4880-bd0b-03db2e577421">Ramming Speed</card>
+    <card qty="1" id="ed06e899-11a5-4743-8b80-cca943cee112">Rapid Ascent</card>
+    <card qty="1" id="933d115d-90fa-4a13-9789-8cd73cd80332">Rapid Conversion</card>
+    <card qty="1" id="cdcc8324-f886-45ab-82ad-40d3a352327b">Ready For Action</card>
+    <card qty="1" id="0b19d986-c196-4cdb-9a94-eaa120026db8">Repair Bay</card>
+    <card qty="1" id="9bc4e8d0-3831-42e6-9b21-b6642843377b">Team-Up Tactics</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

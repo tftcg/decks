@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="8cb3d641-2d62-4580-b96b-0f126f36c0f7">Bumblebee - Least Likely, Most Dangerous</card>
+    <card qty="1" id="915dfe7d-8654-4d7d-9471-09114e796e97">Megatron - Cybertronian Tyrant</card>
+    <card qty="1" id="2c70180b-a811-4772-aee1-8a44fd697e61">Starscream - Decepticon Lieutenant</card>
+    <card qty="1" id="19c5199b-afea-4079-b524-edf023e24a6e">Windblade - Defender of Truth</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="1" id="25cdb4d8-b354-4e28-bd02-0d6c4cc06c23">Primary Laser</card>
+    <card qty="1" id="1835c230-bb8b-4353-8e6b-f09c53be551c">Armored Plating</card>
+    <card qty="1" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="1" id="e5cbe467-b354-4a36-9d63-24351542ecf9">Improvised Shield</card>
+    <card qty="1" id="9b298de0-74ad-49ea-9784-28a4df93affd">Enforcement Batons</card>
+    <card qty="1" id="2c38bd7e-f01a-4c2a-90a6-aec6f8726ea0">Security Console</card>
+    <card qty="1" id="06758b0e-dc03-48cd-abf9-59c233036e9a">Backup Beam</card>
+    <card qty="1" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="1" id="5996525f-e1fc-45c4-a312-e41080b73fa3">Sparring Gear</card>
+    <card qty="1" id="7d59c6af-0f9e-4199-a500-9e292320f289">Stealthiness</card>
+    <card qty="1" id="c04e0d94-27e9-4cbb-9ac1-8395e06ee289">Vaporize</card>
+    <card qty="1" id="fc3ed879-ccc9-4b50-999c-08e8cdb6b017">New Designs</card>
+    <card qty="1" id="05176117-5564-4adc-9ea6-289401999ef1">Surprise Attack</card>
+    <card qty="1" id="9aaba462-4a29-4f01-ac16-ae7a541546f4">Rest and Relaxation</card>
+    <card qty="1" id="fa8f735e-ab4d-46f7-ab4e-64d72d195cc7">Supercharge</card>
+    <card qty="1" id="0e5a1806-528f-4332-91f8-4ce6957d64ba">Reckless Charge</card>
+    <card qty="1" id="c7a9f8da-5974-4d27-9e25-28fc8a6fdf8b">Pep Talk</card>
+    <card qty="1" id="efcc5ff1-266c-41e1-85e7-011f03819ca0">Equipment Enthusiast</card>
+    <card qty="1" id="f6bdf466-957a-4f82-af37-2e4444a229cf">Inferno Breath</card>
+    <card qty="1" id="cbc15b79-7aef-4b77-b16c-22f765a5c793">Strafing Run</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="c877aae9-4625-44fe-a964-d1f68318a487">Leap of Faith</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
