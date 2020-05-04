@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="2294a207-6e43-428b-b83c-505643015f6e">Blaster - Communications</card>
+    <card qty="1" id="bae7eb3d-7bd7-4080-a23f-cadbc98b87dd">Eject - Electronic Surveillance</card>
+    <card qty="1" id="ce252dc9-00b4-46c5-91cd-b709337c220c">Ramhorn - Warrior</card>
+    <card qty="1" id="bf8668b4-246b-46f8-bef3-bbb56a2d2ac3">Steeljaw - Tracker</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="2" id="bafe07d4-5a49-4851-85c7-eaf649eb78cb">Basic Combat Protocol</card>
+    <card qty="3" id="21394737-dc31-475b-8910-b5c60cf0aa5c">Escape Route</card>
+    <card qty="2" id="443c37fc-8284-49cf-9d60-df10175192dd">Flamethrower</card>
+    <card qty="3" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="c04e0d94-27e9-4cbb-9ac1-8395e06ee289">Vaporize</card>
+    <card qty="2" id="912b675f-3801-4d86-944f-e473e70d89fc">Zap</card>
+    <card qty="3" id="239be9c0-cfe8-409c-a964-b124302f61a5">Daring Counterattack</card>
+    <card qty="3" id="857190c1-a4e3-47cb-aa5b-8181d36017a9">Interpret the Airwaves</card>
+    <card qty="3" id="a21ee8cd-f78f-46ba-88f0-3b6b6c5c00ee">Obstructive Rhythm</card>
+    <card qty="3" id="bfdbbe75-269c-47d0-8f95-182a693efc56">Recover Cassette</card>
+    <card qty="3" id="06758b0e-dc03-48cd-abf9-59c233036e9a">Backup Beam</card>
+    <card qty="2" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="3" id="396b6a52-957e-4ccd-8ce4-6055ce9beb56">Pep Talk</card>
+    <card qty="2" id="c9163f87-0393-4089-bc81-f2ad6dddddca">Incoming Transmission</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

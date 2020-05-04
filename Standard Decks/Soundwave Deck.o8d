@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="4334a360-e49f-43e9-aaf4-b5fd2a06b9a8">Soundwave - Communications</card>
+    <card qty="1" id="e3ed0fae-dfe9-445c-9096-fe2415ce7475">Buzzsaw - Spy</card>
+    <card qty="1" id="7b99285f-5fd0-4d8e-abd7-af28ab1d0e1e">Frenzy - Warrior</card>
+    <card qty="1" id="26facecd-8803-4c16-8058-d1f60166996e">Ravage - Saboteur</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="b9481568-58a3-4311-ab32-54c71a3583d0">Calculated Strike</card>
+    <card qty="2" id="51e3a80b-1d39-4982-a40c-9c5dd87a8ce7">Dismantle</card>
+    <card qty="3" id="21394737-dc31-475b-8910-b5c60cf0aa5c">Escape Route</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="de1e95fb-af70-46e3-a598-be6646c40cc4">Buzzsaw, Ravage, Frenzy Attack!</card>
+    <card qty="3" id="2e4f8ffb-52b9-4712-b903-2985a0511f23">Inner Groove</card>
+    <card qty="3" id="624653bd-112a-4e68-a6be-abe908d55887">Intercept Communications</card>
+    <card qty="3" id="bfdbbe75-269c-47d0-8f95-182a693efc56">Recover Cassette</card>
+    <card qty="3" id="3598f13a-130d-4bdf-b544-378f32650304">Blast Shield</card>
+    <card qty="3" id="396b6a52-957e-4ccd-8ce4-6055ce9beb56">Pep Talk</card>
+    <card qty="3" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="3" id="f0fe3b99-a4b8-4c53-bb84-c48d820e8d63">Steady Shot</card>
+    <card qty="2" id="74b7aa8e-a1b4-4ab1-83f2-3f97ab159fdc">Piercing Blaster</card>
+    <card qty="3" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
