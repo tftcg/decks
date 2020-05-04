@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="99abad3b-e20e-4e45-b9ab-3a5f6a63a8fd">Specialist Ratchet - Engineering, Rescue and Repair</card>
+    <card qty="1" id="2f7e0cf3-59af-427e-826f-b846d9f814ad">Raider Chop Shop - Infantry Soldier</card>
+    <card qty="1" id="abbf4718-bc37-4ca3-9ba3-4d495342a7f4">Fireflight - Sky High Recon</card>
+    <card qty="1" id="81c106d9-312c-46bd-865b-54148d39acd9">Flamewar - Veteran Decepticon</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="1" id="524e5fb5-513a-4e55-bbd8-bd34cd7d9e86">Medic!</card>
+    <card qty="3" id="0b19d986-c196-4cdb-9a94-eaa120026db8">Repair Bay</card>
+    <card qty="3" id="9af39aee-5bb2-4991-bef1-bcc6771a160e">Energy Transfer</card>
+    <card qty="3" id="0e5a1806-528f-4332-91f8-4ce6957d64ba">Reckless Charge</card>
+    <card qty="3" id="9e40a06f-59eb-49fe-ba79-63980647e886">Reprocess</card>
+    <card qty="3" id="e9f19e8d-e9e7-4689-924f-84a03bc68bff">Wedge Formation</card>
+    <card qty="3" id="5b3a1c7d-0313-4bd5-b267-1ed3c940bb65">Smelt</card>
+    <card qty="3" id="8e2587e7-2c91-43c3-8e7f-4424b9f26c56">Swap Missions</card>
+    <card qty="3" id="a05d01bf-097c-415b-8dca-7202e42e38e5">Bashing Shield</card>
+    <card qty="1" id="972009c0-420b-4c2c-b8ea-47893b5824f7">Noble's Blaster</card>
+    <card qty="1" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="1" id="d87115cf-dc31-440a-b875-4224a5330be0">Soldier's Blaster</card>
+    <card qty="3" id="c5d72d7f-31b9-4404-bfb6-f95cc7ac424c">Medic's Protective Field</card>
+    <card qty="3" id="a0876f01-0e8a-456a-9e46-3a312caf3569">Kinetic Converter</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="905abf7f-09bd-47d4-bc1f-d93180860138">Armed Hovercraft</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Robots in Design #8: Taking the Second Step
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360036426131-Robots-in-Design-8-Taking-the-Second-Step
+
+See the article for more information.]]></notes>
+</deck>

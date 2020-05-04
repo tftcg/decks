@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="ab87c02d-6946-4a2c-95c9-ae0b7c8bd1d5">Raider Spinister - Infantry, Aerial Assault</card>
+    <card qty="1" id="527a7553-41ea-4c6c-9c62-2f26fcc10828">Private Lionizer - Ground Command, Artillery</card>
+    <card qty="1" id="82f6ca40-ff6a-4c1f-955b-85314003dba5">Private Firedrive - Ground Command, Artillery</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="0e5a1806-528f-4332-91f8-4ce6957d64ba">Reckless Charge</card>
+    <card qty="3" id="efcc5ff1-266c-41e1-85e7-011f03819ca0">Equipment Enthusiast</card>
+    <card qty="3" id="9af39aee-5bb2-4991-bef1-bcc6771a160e">Energy Transfer</card>
+    <card qty="3" id="80cfd96b-ef84-4cbd-a1ad-28b4cbbf3be9">Step Forward</card>
+    <card qty="3" id="5eb7bae0-0397-4a5c-8fec-c95e445e46ca">Showing Off</card>
+    <card qty="3" id="c3cf181e-a6d9-4206-91d8-5284fd078c4d">Sabotaged Armaments</card>
+    <card qty="3" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="3" id="c5d72d7f-31b9-4404-bfb6-f95cc7ac424c">Medic's Protective Field</card>
+    <card qty="3" id="e5cbe467-b354-4a36-9d63-24351542ecf9">Improvised Shield</card>
+    <card qty="3" id="89ee7dc6-eaad-40b1-9357-c66feec2391a">Spare Parts</card>
+    <card qty="3" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="3" id="a05d01bf-097c-415b-8dca-7202e42e38e5">Bashing Shield</card>
+    <card qty="2" id="a0876f01-0e8a-456a-9e46-3a312caf3569">Kinetic Converter</card>
+    <card qty="2" id="59b30e39-0a77-4cab-9eff-b6ac921a0f61">Kinetic Intensifier Whip</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Robots in Design #8: Taking the Second Step
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360036426131-Robots-in-Design-8-Taking-the-Second-Step
+
+See the article for more information.]]></notes>
+</deck>
