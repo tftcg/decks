@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="94276c3c-60c9-4584-9004-3fd12df98a93">Raider Storm Cloud - Infantry, Electronic Warfare</card>
+    <card qty="1" id="7bf596be-bdc0-4f63-9384-dcd38e43a9b2">Raider Nightflight - Air Strike Patrol Spy</card>
+    <card qty="1" id="29ab5e5d-f3be-4ade-a0a9-d84d776863c5">Raider Tailwind - Air Strike Patrol, Strategist</card>
+    <card qty="1" id="4b7b6322-bde2-4575-b862-8b69f44c7d55">Nemesis Prime - Dark Clone</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="06758b0e-dc03-48cd-abf9-59c233036e9a">Backup Beam</card>
+    <card qty="3" id="73b71cf0-8f33-44bb-8e6e-b11f93bcad46">Extra Padding</card>
+    <card qty="3" id="d6e8a560-e19d-41b8-9a4a-6b2dbc255146">Laser Cutlass</card>
+    <card qty="3" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+    <card qty="3" id="8185adfa-3eb0-4079-a011-a6256f2e8b98">Sturdy Javelin</card>
+    <card qty="2" id="1862d34c-4830-4546-ae4c-099cfd76389a">Decepticon Crown</card>
+    <card qty="2" id="c9e74b58-9c8b-4d01-98b8-b14a5389440e">Personal Targeting Drone</card>
+    <card qty="2" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="1" id="ce3622b1-778b-4cf0-b4c3-c91699db4dda">Pocket Processor</card>
+    <card qty="3" id="9e54984a-66f1-472c-91ef-d618e3912717">The Bigger They Are</card>
+    <card qty="3" id="a89d92f9-672c-49d3-86c5-2e6ecd6cbb94">Marksmanship</card>
+    <card qty="3" id="05e46878-5bb3-48e4-bd35-54e21f5d9232">War Of Attrition</card>
+    <card qty="3" id="e9f19e8d-e9e7-4689-924f-84a03bc68bff">Wedge Formation</card>
+    <card qty="2" id="56a8c7f9-24d9-4463-b1a8-921338411864">Backfire</card>
+    <card qty="2" id="f0fe3b99-a4b8-4c53-bb84-c48d820e8d63">Steady Shot</card>
+    <card qty="1" id="21394737-dc31-475b-8910-b5c60cf0aa5c">Escape Route</card>
+    <card qty="1" id="ed1d3c3e-5b36-4503-8b72-0bd9032c6322">Espionage</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="466b5140-00c5-4c41-949b-dda0f3ca1afa">Sergeant Springer - Special Ops, Aerial Defense</card>
+    <card qty="1" id="9b298de0-74ad-49ea-9784-28a4df93affd">Enforcement Batons</card>
+    <card qty="3" id="3e0e5ff3-6f59-479c-97c5-39f85fce9a6d">Conversion Engine</card>
+    <card qty="3" id="e5c89a0d-35e6-4cc6-9a30-409c7e0275f8">Terrifying Resilience</card>
+    <card qty="3" id="1f96d9a1-128c-4000-9cb7-f023646a928c">Overwhelming Advantage</card>
+  </section>
+  <notes><![CDATA[ Robots in Design #11: Nemesis Patrol 
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360038062131-Robots-in-Design-11-Nemesis-Patrol
+
+See article for tips.]]></notes>
+</deck>

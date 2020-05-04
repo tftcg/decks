@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="323540a6-5e48-4f76-8b4a-e6854d7240bd">Decepticon Pounce - Infiltrator</card>
+    <card qty="1" id="92384d3f-e2da-4c45-8f06-badb3341d8ec">Major Shockwave - Applied Sciences, Scientist</card>
+    <card qty="1" id="ca5d8b85-0d8c-497a-899f-14c83c9e15a4">Infiltration</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="54f7fd8e-1d78-41d5-b3dc-ca5a1c7a76c8">Handheld Blaster</card>
+    <card qty="3" id="2c38bd7e-f01a-4c2a-90a6-aec6f8726ea0">Security Console</card>
+    <card qty="3" id="44b7efa0-c8dc-4f05-9cf3-bea2674da45e">Anticipation Engine</card>
+    <card qty="3" id="f0523589-8f60-4134-9fd6-d1a6f52ff66b">Energon Mace</card>
+    <card qty="2" id="630e4f3d-3798-4929-ac9b-03158ba88d77">LV Gamma-Disruptor Launcher</card>
+    <card qty="3" id="7c2d5fc2-c141-42b8-9781-797c0da52049">Hold The Line</card>
+    <card qty="3" id="63b31f11-d8c1-43ef-b586-7b1d657c65d9">Battlefield Report</card>
+    <card qty="3" id="b887deb3-2be3-4d04-b672-b55a40c18252">Hidden Fortification</card>
+    <card qty="1" id="3d51894b-9617-4a12-8101-6a1432352d8a">End Hostilities</card>
+    <card qty="2" id="a9083f1d-92ec-4b86-ab25-17f882c95265">Lucky Dodge</card>
+    <card qty="3" id="929463d8-8d29-4f4c-a626-7197fecdec26">Spymaster's Ruse</card>
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="2ee015da-8e42-4582-b3ea-184cf4017a40">Brainstorm</card>
+    <card qty="1" id="8916aa40-3c68-40a0-8385-23573d36209b">Special Ops Mission</card>
+    <card qty="1" id="396b6a52-957e-4ccd-8ce4-6055ce9beb56">Pep Talk</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="3" id="3492fe71-531b-4e78-8ab1-57839b502d81">Infiltrate</card>
+    <card qty="3" id="fd07bd58-d7e1-4805-b567-3a525b72c265">Jam Signals</card>
+    <card qty="1" id="fc4a6acb-75a9-4e31-b5af-9dc45b306d5a">Overrule</card>
+    <card qty="1" id="d4bd3776-1f38-48f7-9424-3db6639fd12f">Lose the Initiative</card>
+    <card qty="2" id="a620ef46-326d-4ea9-8d7b-158ef30ae92c">Reflect Damage</card>
+  </section>
+  <notes><![CDATA[ Nagle’s Notes - Spymaster's Ruse Deck 
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360042142652-Nagle-s-Notes-Spymaster-s-Ruse-Deck
+
+See article for how to play this deck.]]></notes>
+</deck>

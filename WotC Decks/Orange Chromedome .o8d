@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="a00c0196-5f83-40bb-abe8-078227ccf8d1">Chromedome - Computer Programmer</card>
+    <card qty="1" id="a393ef7f-d516-4d70-9684-9aa705399173">Kreb</card>
+    <card qty="1" id="74139ed7-bfef-467d-88cc-022d53858d47">Sergeant Thundercracker - Infantry, Seeker</card>
+    <card qty="1" id="01283ade-b723-4c87-ac59-e2a822f63aac">Windcharger - Autobot Warrior</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="04139f6f-c61b-4b99-b42d-3c5626f26d16">Disruption</card>
+    <card qty="2" id="4ca0e985-a408-4142-b0cd-cbfab60ce2a2">Hijack</card>
+    <card qty="2" id="ed1d3c3e-5b36-4503-8b72-0bd9032c6322">Espionage</card>
+    <card qty="3" id="ed06e899-11a5-4743-8b80-cca943cee112">Rapid Ascent</card>
+    <card qty="3" id="e9f19e8d-e9e7-4689-924f-84a03bc68bff">Wedge Formation</card>
+    <card qty="2" id="d1aa1f10-71fe-4e3f-be34-70244370bff2">Escape Capsule</card>
+    <card qty="3" id="fda76705-8e01-4a1a-8f4a-681600638e09">Precision Fire</card>
+    <card qty="2" id="91da5cc1-5e92-43c0-8fd8-7a15d20dd466">Fight for Position</card>
+    <card qty="2" id="1ab157a7-cb87-4abc-9840-c5ada9a11047">Last Stand</card>
+    <card qty="3" id="ad2443fc-232a-40c1-83ac-3855efb611e4">Peace through Tyranny</card>
+    <card qty="1" id="a05d01bf-097c-415b-8dca-7202e42e38e5">Bashing Shield</card>
+    <card qty="3" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="3" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="3" id="c5e99227-56df-42b8-a8fd-09a3b457bbad">Erractic Lightning</card>
+    <card qty="1" id="443c37fc-8284-49cf-9d60-df10175192dd">Flamethrower</card>
+    <card qty="3" id="fa8f735e-ab4d-46f7-ab4e-64d72d195cc7">Supercharge</card>
+    <card qty="1" id="7c2d5fc2-c141-42b8-9781-797c0da52049">Hold The Line</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="1eb37cf8-586e-4719-a065-3d01e7a15a85">Parsec</card>
+  </section>
+  <notes><![CDATA[Sleight of Hand- Orange Chromedome 
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360042982011-Sleight-of-Hand-Orange-Chromedome
+
+See articlefor tips on playing.]]></notes>
+</deck>
