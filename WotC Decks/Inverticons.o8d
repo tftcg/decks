@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="37da857e-066e-4f47-b42e-9233d58ad84a">Bonecrusher - Demolitions</card>
+    <card qty="1" id="dc1b5c7a-8fb5-4675-8973-1c400e869727">Hook - Surgical Engineer</card>
+    <card qty="1" id="af92a6ea-3072-41b2-b126-a077917e0825">Longhaul - Transport</card>
+    <card qty="1" id="a8c5b759-bc60-43e9-872e-517fcd7c5ed0">Mixmaster - Materials Fabrication</card>
+    <card qty="1" id="e4f52502-1103-4300-890a-88e6a55fd32c">Scavenger - Mining and Salvage</card>
+    <card qty="1" id="e3095505-e7f1-42d0-aca0-5a23ca3aa951">Scrapper - Constructicon Foreman</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="2b0c5085-4e87-4332-b51f-9327f1ede75f">Heavy Landing</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+    <card qty="2" id="c33725bb-de9b-482a-8e07-13f33016c144">Constructicon Enigma</card>
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="9e54984a-66f1-472c-91ef-d618e3912717">The Bigger They Are</card>
+    <card qty="3" id="155a314e-0ff1-464f-8755-0bc617800c03">Reclaim</card>
+    <card qty="2" id="c04e0d94-27e9-4cbb-9ac1-8395e06ee289">Vaporize</card>
+    <card qty="1" id="63b31f11-d8c1-43ef-b586-7b1d657c65d9">Battlefield Report</card>
+    <card qty="1" id="a39a616c-fcde-4655-baef-2554e837e30c">Take Cover</card>
+    <card qty="1" id="ddf8336b-3b80-4ca8-a855-407c24e613c1">Dampening Field</card>
+    <card qty="2" id="6a81470e-60de-42e3-8c96-99034715a910">Inverted!</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="1" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="3" id="311b7d4b-0722-41fc-a21e-e3bf42d0e11b">Erratic Energy Grenade</card>
+    <card qty="1" id="a50b907f-c037-442b-9e46-f6d896fbb462">Thermal Weaponry</card>
+    <card qty="2" id="d6e8a560-e19d-41b8-9a4a-6b2dbc255146">Laser Cutlass</card>
+    <card qty="1" id="a05d01bf-097c-415b-8dca-7202e42e38e5">Bashing Shield</card>
+    <card qty="3" id="4125cac1-68a8-41c8-bcbe-18a6e750e491">Data Bank</card>
+    <card qty="1" id="9b298de0-74ad-49ea-9784-28a4df93affd">Enforcement Batons</card>
+    <card qty="1" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="250f1f0e-6492-4534-a221-3c2e34bd0f91">Devastator - Towering Warrior</card>
+  </section>
+  <notes><![CDATA[Wheeljack’s Warehouse: INVERTICONS!
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360033433651-Wheeljack-s-Warehouse-INVERTICONS-]]></notes>
+</deck>

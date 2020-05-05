@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="3a7eb922-2629-4dc4-91fa-3f079afe5ee1">Sergeant Cog - Artillery, Mechanic</card>
+    <card qty="1" id="99c4ac4e-9b2b-4a6b-84b1-82ac99c8b0c1">Private Flak - Artillery, Tactics</card>
+    <card qty="1" id="4a0aa87b-f472-4dee-b205-5864a50e3af1">Grimlock - Dinobot Leader</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="e5cbe467-b354-4a36-9d63-24351542ecf9">Improvised Shield</card>
+    <card qty="3" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="3" id="b831220f-edbf-4221-a16c-c784b21140de">Grenade Launcher</card>
+    <card qty="3" id="b533f30b-3123-4577-a4ff-07c92dd0f502">Power Punch</card>
+    <card qty="3" id="814138e9-c9ee-4dce-a8a6-30e319eeba1c">Energy Pack</card>
+    <card qty="3" id="618ab1a0-4771-4eac-8174-b0938a074a70">Backup Bag</card>
+    <card qty="3" id="04fd6ae4-f204-4399-948f-f4e402e5ef55">Emergency Defense Field</card>
+    <card qty="3" id="a1dfcf56-5809-43e5-9c39-05b9e285704a">Bolster</card>
+    <card qty="3" id="0e5a1806-528f-4332-91f8-4ce6957d64ba">Reckless Charge</card>
+    <card qty="3" id="b9466a65-b3d7-475c-bfa3-ddaa3241d8c9">Treasure Hunt</card>
+    <card qty="3" id="5e05e6cf-ccea-4929-a4e3-2bb994e601cc">Backup Plan</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+    <card qty="3" id="ad2443fc-232a-40c1-83ac-3855efb611e4">Peace through Tyranny</card>
+    <card qty="1" id="488465a5-d8de-428b-a650-5f8efa9344c3">Scavenge the Battlefield</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Nagle’s Notes: The Making of a Weaponizer
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer]]></notes>
+</deck>
