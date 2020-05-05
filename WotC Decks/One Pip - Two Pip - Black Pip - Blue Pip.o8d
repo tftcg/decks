@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="37da857e-066e-4f47-b42e-9233d58ad84a">Bonecrusher - Demolitions</card>
+    <card qty="1" id="dc1b5c7a-8fb5-4675-8973-1c400e869727">Hook - Surgical Engineer</card>
+    <card qty="1" id="af92a6ea-3072-41b2-b126-a077917e0825">Longhaul - Transport</card>
+    <card qty="1" id="a8c5b759-bc60-43e9-872e-517fcd7c5ed0">Mixmaster - Materials Fabrication</card>
+    <card qty="1" id="e4f52502-1103-4300-890a-88e6a55fd32c">Scavenger - Mining and Salvage</card>
+    <card qty="1" id="e3095505-e7f1-42d0-aca0-5a23ca3aa951">Scrapper - Constructicon Foreman</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="1" id="c33725bb-de9b-482a-8e07-13f33016c144">Constructicon Enigma</card>
+    <card qty="3" id="155a314e-0ff1-464f-8755-0bc617800c03">Reclaim</card>
+    <card qty="3" id="9e54984a-66f1-472c-91ef-d618e3912717">The Bigger They Are</card>
+    <card qty="3" id="f0fe3b99-a4b8-4c53-bb84-c48d820e8d63">Steady Shot</card>
+    <card qty="3" id="b9481568-58a3-4311-ab32-54c71a3583d0">Calculated Strike</card>
+    <card qty="3" id="d1bb8565-c945-45ae-8450-64f7bdec478e">Designated Target</card>
+    <card qty="3" id="6067d540-7e7a-4082-8cfd-be2ff48ab9ed">Rapid Conversion</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+    <card qty="3" id="89043952-f14e-4e8b-92c4-1db7fda2e13a">Crowbar</card>
+    <card qty="3" id="b41b1191-ab1f-4c0f-a9d7-e0f33ed38b13">RR Disruption Blade</card>
+    <card qty="3" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="3" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+    <card qty="3" id="2d0c97d7-5553-40ef-b574-aab01f2bd755">Minor Medic Kit</card>
+    <card qty="3" id="311b7d4b-0722-41fc-a21e-e3bf42d0e11b">Erratic Energy Grenade</card>
+  </section>
+  <section name="Sideboard" shared="False">
+    <card qty="1" id="250f1f0e-6492-4534-a221-3c2e34bd0f91">Devastator - Towering Warrior</card>
+  </section>
+  <notes><![CDATA[One Pip, Two Pip, Black Pip, Blue Pip
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360033499572-One-Pip-Two-Pip-Black-Pip-Blue-Pip]]></notes>
+</deck>

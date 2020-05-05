@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="4334a360-e49f-43e9-aaf4-b5fd2a06b9a8">Soundwave - Communications</card>
+    <card qty="1" id="e3ed0fae-dfe9-445c-9096-fe2415ce7475">Buzzsaw - Spy</card>
+    <card qty="1" id="26facecd-8803-4c16-8058-d1f60166996e">Ravage - Saboteur</card>
+    <card qty="1" id="9645e8e5-0618-4eff-9455-3dcec6267aaa">Raider Aimless - Air Force, Weapons</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="d6e8a560-e19d-41b8-9a4a-6b2dbc255146">Laser Cutlass</card>
+    <card qty="3" id="905abf7f-09bd-47d4-bc1f-d93180860138">Armed Hovercraft</card>
+    <card qty="3" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="1" id="fd2b885c-6808-4a0c-89b4-5349bf4b4e27">Drill Arms</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="c15daf57-9de9-4e63-8bf7-419cbb2ff806">Reinforced Plating</card>
+    <card qty="1" id="5996525f-e1fc-45c4-a312-e41080b73fa3">Sparring Gear</card>
+    <card qty="2" id="de23bac0-1c06-4e6a-a777-dd1e26b06424">Evasive Maneuvers</card>
+    <card qty="3" id="8e9ed216-6fdb-43f9-bd84-339ecb9e0343">Data Pad</card>
+    <card qty="1" id="1862d34c-4830-4546-ae4c-099cfd76389a">Decepticon Crown</card>
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="bfdbbe75-269c-47d0-8f95-182a693efc56">Recover Cassette</card>
+    <card qty="2" id="5b3a1c7d-0313-4bd5-b267-1ed3c940bb65">Smelt</card>
+    <card qty="2" id="9e54984a-66f1-472c-91ef-d618e3912717">The Bigger They Are</card>
+    <card qty="2" id="21394737-dc31-475b-8910-b5c60cf0aa5c">Escape Route</card>
+    <card qty="2" id="eaed7186-fe61-43c4-b608-acd5f0ef7f5e">Roll Out!</card>
+    <card qty="3" id="efcc5ff1-266c-41e1-85e7-011f03819ca0">Equipment Enthusiast</card>
+    <card qty="1" id="b9e9fdd0-08f5-4573-bbf7-f6578b9bac1c">Quartermaster</card>
+    <card qty="1" id="459176ea-fb30-4e99-9d0f-8d926c2efc09">Disarm</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Ill Communication: Building a SOUNDWAVE Deck with Matt Smith!
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360033440891-Ill-Communication-Building-a-SOUNDWAVE-Deck-with-Matt-Smith-]]></notes>
+</deck>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="92170a8c-3274-44a8-b9d4-5352dbe19242">General Megatron - Infantry, Leader</card>
+    <card qty="1" id="81c106d9-312c-46bd-865b-54148d39acd9">Flamewar - Veteran Decepticon</card>
+    <card qty="1" id="9645e8e5-0618-4eff-9455-3dcec6267aaa">Raider Aimless - Air Force, Weapons</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="c04e0d94-27e9-4cbb-9ac1-8395e06ee289">Vaporize</card>
+    <card qty="3" id="396b6a52-957e-4ccd-8ce4-6055ce9beb56">Pep Talk</card>
+    <card qty="3" id="165c7b9b-51bb-48b6-a45b-c440b3030524">Heavy Handed</card>
+    <card qty="3" id="3492fe71-531b-4e78-8ab1-57839b502d81">Infiltrate</card>
+    <card qty="3" id="21394737-dc31-475b-8910-b5c60cf0aa5c">Escape Route</card>
+    <card qty="2" id="ed1d3c3e-5b36-4503-8b72-0bd9032c6322">Espionage</card>
+    <card qty="3" id="5b848725-1ea7-4440-b82b-2ca6777e8b92">Hunker Down</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="905abf7f-09bd-47d4-bc1f-d93180860138">Armed Hovercraft</card>
+    <card qty="3" id="73b71cf0-8f33-44bb-8e6e-b11f93bcad46">Extra Padding</card>
+    <card qty="3" id="94fd052a-45cd-4f78-b873-155ba6d79c8f">Attack Drone</card>
+    <card qty="2" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="3" id="ffff3a2a-23e0-4249-b47f-74ee45141cbe">Bravery</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Big Daddy Megz and the Flipping Fanatics: A Deck Profile with Mondo Spanner
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360034345572-Big-Daddy-Megz-and-the-Flipping-Fanatics-A-Deck-Profile-with-Mondo-Spanner]]></notes>
+</deck>

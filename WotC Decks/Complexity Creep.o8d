@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="ad932695-e019-4e23-b08f-9b4bbc20a896">Autobot Novastar - Search and Rescue</card>
+    <card qty="1" id="1e7ac879-6557-40ba-95cd-e426d200e6f9">Inferno - Fearless Firefighter</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="1" id="4863c593-3e0e-4b09-a4ca-8d0d95911c7c">Bolt of Lightning</card>
+    <card qty="3" id="25cdb4d8-b354-4e28-bd02-0d6c4cc06c23">Primary Laser</card>
+    <card qty="3" id="1835c230-bb8b-4353-8e6b-f09c53be551c">Armored Plating</card>
+    <card qty="3" id="163b309e-5e2b-43e2-bbb1-7e0138cf5004">Handheld Blaster</card>
+    <card qty="3" id="c15daf57-9de9-4e63-8bf7-419cbb2ff806">Reinforced Plating</card>
+    <card qty="3" id="62923253-0522-45c9-af07-b9cedeba64a4">EM24 IR Laser Launcher</card>
+    <card qty="2" id="972009c0-420b-4c2c-b8ea-47893b5824f7">Noble's Blaster</card>
+    <card qty="3" id="0b1518fb-376d-4f9e-ae7c-4bc8a58baf7a">Urban Camo</card>
+    <card qty="2" id="814138e9-c9ee-4dce-a8a6-30e319eeba1c">Energy Pack</card>
+    <card qty="3" id="e40a9b5e-9432-4199-a2ae-8f11096c7034">Diagnosis</card>
+    <card qty="3" id="44e0f1f2-964f-47ff-87a2-ba370308b377">Leap Into Battle</card>
+    <card qty="3" id="33c8923d-9d72-4370-a0f8-ffeff60f3e22">Squish Them Like Bugs</card>
+    <card qty="3" id="b02a8fc4-b5f1-46e5-a78b-e1e9a72ca7be">Plasma Burst</card>
+    <card qty="3" id="524e5fb5-513a-4e55-bbd8-bd34cd7d9e86">Medic!</card>
+    <card qty="3" id="165c7b9b-51bb-48b6-a45b-c440b3030524">Heavy Handed</card>
+    <card qty="3" id="9bc4e8d0-3831-42e6-9b21-b6642843377b">Team-Up Tactics</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Nagle’s Notes: Complexity Creep
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360033649471-Nagle-s-Notes-Complexity-Creep]]></notes>
+</deck>

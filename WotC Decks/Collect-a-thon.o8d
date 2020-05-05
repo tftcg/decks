@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="29ab5e5d-f3be-4ade-a0a9-d84d776863c5">Raider Tailwind - Air Strike Patrol, Strategist</card>
+    <card qty="1" id="9db04b48-bb13-4819-a5ce-2c169095e282">Raider Visper - Infantry, Patrol Leader</card>
+    <card qty="1" id="94276c3c-60c9-4584-9004-3fd12df98a93">Raider Storm Cloud - Infantry, Electronic Warfare</card>
+    <card qty="1" id="7bf596be-bdc0-4f63-9384-dcd38e43a9b2">Raider Nightflight - Air Strike Patrol Spy</card>
+    <card qty="1" id="2f7e0cf3-59af-427e-826f-b846d9f814ad">Raider Chop Shop - Infantry Soldier</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="89026c90-4362-414a-ae7e-c61ff883793b">Focus Fire</card>
+    <card qty="3" id="0eb258c2-317f-4698-af04-f2edb20ee74f">Sonic Scramble</card>
+    <card qty="3" id="05e46878-5bb3-48e4-bd35-54e21f5d9232">War Of Attrition</card>
+    <card qty="3" id="73b71cf0-8f33-44bb-8e6e-b11f93bcad46">Extra Padding</card>
+    <card qty="3" id="94fd052a-45cd-4f78-b873-155ba6d79c8f">Attack Drone</card>
+    <card qty="3" id="8be779c5-1cc5-4a15-9f30-c76580e2e71c">Scoundrel's Blaster</card>
+    <card qty="3" id="9b298de0-74ad-49ea-9784-28a4df93affd">Enforcement Batons</card>
+    <card qty="3" id="a05d01bf-097c-415b-8dca-7202e42e38e5">Bashing Shield</card>
+    <card qty="3" id="8fa113dc-d614-4652-b0bf-6e7247b2f182">Reflex Circuits</card>
+    <card qty="3" id="ce3622b1-778b-4cf0-b4c3-c91699db4dda">Pocket Processor</card>
+    <card qty="3" id="efcc5ff1-266c-41e1-85e7-011f03819ca0">Equipment Enthusiast</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+    <card qty="3" id="0091b7ea-e7d2-4712-9691-667fa1b647aa">Swindled</card>
+    <card qty="1" id="fc7c9356-0e4a-4bb4-bb2a-b654eb4cbd5e">System Reboot</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Nagle’s Notes: Collect-a-Thon Deck
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360035389452-Nagle-s-Notes-Collect-a-Thon-Deck
+]]></notes>
+</deck>

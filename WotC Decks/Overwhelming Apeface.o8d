@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="efc601ba-c00e-45c4-b225-392c7b788df1">Raider Apeface - Espionage Commando</card>
+    <card qty="1" id="8a17ddae-b7b8-4570-bdd4-73d40affe184">Megatron - Arrogant Ruler</card>
+    <card qty="1" id="6a6701c2-f4ed-4c97-9e42-07356ce28add">Predacon Headstrong - Ground Assault</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="1f96d9a1-128c-4000-9cb7-f023646a928c">Overwhelming Advantage</card>
+    <card qty="3" id="e5c89a0d-35e6-4cc6-9a30-409c7e0275f8">Terrifying Resilience</card>
+    <card qty="3" id="89ee7dc6-eaad-40b1-9357-c66feec2391a">Spare Parts</card>
+    <card qty="3" id="154ca3e4-9d85-430a-b1bf-3663436f9ace">Combat Dagger</card>
+    <card qty="3" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+    <card qty="3" id="c5567e64-e791-4d2b-b82a-3e47f6d4a288">Point Position</card>
+    <card qty="1" id="06758b0e-dc03-48cd-abf9-59c233036e9a">Backup Beam</card>
+    <card qty="3" id="7a56e923-09b3-438d-bf2c-e725e00a3854">Immersed In Shadow</card>
+    <card qty="1" id="94fd052a-45cd-4f78-b873-155ba6d79c8f">Attack Drone</card>
+    <card qty="3" id="7865824e-663a-434a-aae3-715690eedc85">Metal Detector</card>
+    <card qty="2" id="8fa113dc-d614-4652-b0bf-6e7247b2f182">Reflex Circuits</card>
+    <card qty="3" id="1862d34c-4830-4546-ae4c-099cfd76389a">Decepticon Crown</card>
+    <card qty="3" id="b9466a65-b3d7-475c-bfa3-ddaa3241d8c9">Treasure Hunt</card>
+    <card qty="3" id="0091b7ea-e7d2-4712-9691-667fa1b647aa">Swindled</card>
+    <card qty="3" id="04a46d2e-4a14-420d-992f-315d788ebac4">Work Overtime</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Nagle’s Notes: Overwhelming Advantage Deck
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360035652032-Nagle-s-Notes-Overwhelming-Advantage-Deck
+
+]]></notes>
+</deck>

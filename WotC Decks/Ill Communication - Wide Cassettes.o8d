@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="e3ed0fae-dfe9-445c-9096-fe2415ce7475">Buzzsaw - Spy</card>
+    <card qty="1" id="26facecd-8803-4c16-8058-d1f60166996e">Ravage - Saboteur</card>
+    <card qty="1" id="7b99285f-5fd0-4d8e-abd7-af28ab1d0e1e">Frenzy - Warrior</card>
+    <card qty="1" id="ce252dc9-00b4-46c5-91cd-b709337c220c">Ramhorn - Warrior</card>
+    <card qty="1" id="bae7eb3d-7bd7-4080-a23f-cadbc98b87dd">Eject - Electronic Surveillance</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="3" id="d6e8a560-e19d-41b8-9a4a-6b2dbc255146">Laser Cutlass</card>
+    <card qty="1" id="74b7aa8e-a1b4-4ab1-83f2-3f97ab159fdc">Piercing Blaster</card>
+    <card qty="3" id="25cdb4d8-b354-4e28-bd02-0d6c4cc06c23">Primary Laser</card>
+    <card qty="2" id="fd2b885c-6808-4a0c-89b4-5349bf4b4e27">Drill Arms</card>
+    <card qty="3" id="a21ee8cd-f78f-46ba-88f0-3b6b6c5c00ee">Obstructive Rhythm</card>
+    <card qty="2" id="21f46a92-8ec3-4d92-9caa-a50d59b20506">Force Field</card>
+    <card qty="3" id="9a5aca44-a811-4212-a1de-3c4b0b18cb62">Smoke Cloak</card>
+    <card qty="3" id="2e4f8ffb-52b9-4712-b903-2985a0511f23">Inner Groove</card>
+    <card qty="2" id="4125cac1-68a8-41c8-bcbe-18a6e750e491">Data Bank</card>
+    <card qty="3" id="9e54984a-66f1-472c-91ef-d618e3912717">The Bigger They Are</card>
+    <card qty="3" id="f0fe3b99-a4b8-4c53-bb84-c48d820e8d63">Steady Shot</card>
+    <card qty="3" id="de1e95fb-af70-46e3-a598-be6646c40cc4">Buzzsaw, Ravage, Frenzy Attack!</card>
+    <card qty="3" id="6067d540-7e7a-4082-8cfd-be2ff48ab9ed">Rapid Conversion</card>
+    <card qty="3" id="f6bdf466-957a-4f82-af37-2e4444a229cf">Inferno Breath</card>
+    <card qty="3" id="396b6a52-957e-4ccd-8ce4-6055ce9beb56">Pep Talk</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Ill Communication: Building a SOUNDWAVE Deck with Matt Smith!
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360033440891-Ill-Communication-Building-a-SOUNDWAVE-Deck-with-Matt-Smith-]]></notes>
+</deck>
