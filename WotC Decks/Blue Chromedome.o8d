@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="f44befce-4d6d-4fb9-a286-9585f36aece9">
+  <section name="Characters" shared="False">
+    <card qty="1" id="a00c0196-5f83-40bb-abe8-078227ccf8d1">Chromedome - Computer Programmer</card>
+    <card qty="1" id="75159043-fa8f-4899-b4af-7f8a8d8d0bc4">Grax</card>
+    <card qty="1" id="4334a360-e49f-43e9-aaf4-b5fd2a06b9a8">Soundwave - Communications</card>
+    <card qty="1" id="26facecd-8803-4c16-8058-d1f60166996e">Ravage - Saboteur</card>
+  </section>
+  <section name="Deck" shared="False">
+    <card qty="1" id="755b35c0-285f-4cc2-acd8-e5d008abe86a">Counterespionage</card>
+    <card qty="1" id="ed1d3c3e-5b36-4503-8b72-0bd9032c6322">Espionage</card>
+    <card qty="2" id="e2b75e6b-ae68-4dac-aee0-345b648e98fc">Fog of War</card>
+    <card qty="1" id="4ca0e985-a408-4142-b0cd-cbfab60ce2a2">Hijack</card>
+    <card qty="3" id="153d7aa5-e8a7-4af2-8041-f5321b6ca8ad">Security Checkpoint</card>
+    <card qty="3" id="5b3a1c7d-0313-4bd5-b267-1ed3c940bb65">Smelt</card>
+    <card qty="1" id="2ee015da-8e42-4582-b3ea-184cf4017a40">Brainstorm</card>
+    <card qty="2" id="3d51894b-9617-4a12-8101-6a1432352d8a">End Hostilities</card>
+    <card qty="3" id="b887deb3-2be3-4d04-b672-b55a40c18252">Hidden Fortification</card>
+    <card qty="3" id="bfdbbe75-269c-47d0-8f95-182a693efc56">Recover Cassette</card>
+    <card qty="3" id="9e54984a-66f1-472c-91ef-d618e3912717">The Bigger They Are</card>
+    <card qty="3" id="8696f19c-3992-4f97-bbfd-e7c75722ae92">Tripwire</card>
+    <card qty="3" id="73b71cf0-8f33-44bb-8e6e-b11f93bcad46">Extra Padding</card>
+    <card qty="3" id="54f7fd8e-1d78-41d5-b3dc-ca5a1c7a76c8">Handheld Blaster</card>
+    <card qty="3" id="23082d63-c78f-4c94-ae66-be6c8a727d45">Paralyzo Box</card>
+    <card qty="2" id="ce3622b1-778b-4cf0-b4c3-c91699db4dda">Pocket Processor</card>
+    <card qty="1" id="d87115cf-dc31-440a-b875-4224a5330be0">Soldier's Blaster</card>
+    <card qty="2" id="8d123bd7-f864-448c-a88b-ca04ea01c5cd">Sturdy Armor</card>
+  </section>
+  <section name="Sideboard" shared="False" />
+  <notes><![CDATA[Sleight of Hand- Chromedome Part 2
+
+https://transformerstcg-support.wizards.com/hc/en-us/articles/360042832692]]></notes>
+</deck>
